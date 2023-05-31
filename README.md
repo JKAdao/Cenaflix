@@ -1,5 +1,5 @@
 # Cenaflix
- Software de cadastro de filmes no banco de dados.
+Software de cadastro de filmes no banco de dados.
 
 
 
